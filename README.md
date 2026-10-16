@@ -58,8 +58,8 @@ My main goal is to **keep growing as a programmer**, collaborating with great te
 ## 📊 Github stats
 > _“Keep learning, keep building, and never stop growing.”_ 🌟
 
-![](https://github-readme-stats.vercel.app/api?username=DavidPerez-2357&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidPerez-2357&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=David-2357&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=David-2357&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DavidPerez-2357&limit=5&theme=dark&combine_all_yearly_contributions=true) -->

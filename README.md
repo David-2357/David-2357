@@ -8,8 +8,8 @@ My journey began at 17, when I discovered **web development** and realized it wa
 My main goal is to **keep growing as a programmer**, collaborating with great teams, and writing clean, efficient code that follows best practices. I aim to deliver high-quality, scalable, and user-friendly solutions.
 
 ### 📚 Education
-- 🎓 **Microdegree in Advanced Algorithm Programming**: UNED  
-- 🎓 **Higher Vocational Training in Web Application Development (2025)**  
+- 🎓 **Microdegree in Advanced Algorithm Programming (2026)**
+- 🎓 **Higher Vocational Training in Web Application Development (2025)**
   *Front-end & Back-end: HTML, CSS, JavaScript, PHP, MySQL, React, Angular, Django, Tailwind CSS*  
 - 🎓 **Intermediate Vocational Training in Microcomputer Systems and Networks (2023)**
 

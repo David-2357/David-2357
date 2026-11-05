@@ -64,9 +64,16 @@ My main goal is to **keep growing as a programmer**, collaborating with great te
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DavidPerez-2357&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="bonsai/bonsai-dark.svg">
+  <img alt="My Git Bonsai, grown from my GitHub activity" src="bonsai/bonsai-light.svg" width="560">
+</picture>
+
 <br/>
 
 ## 📫 How to Reach Me  
 - **Email:** davidperezfernandez2005@gmail.com
 - **LinkedIn:** [David Pérez Fernández](https://www.linkedin.com/in/david-p%C3%A9rez-fern%C3%A1ndez-626360282/)
 - **Portfolio:** *In progress*
+
+

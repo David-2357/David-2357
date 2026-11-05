@@ -1,0 +1,223 @@
+{
+  "schema": 1,
+  "login": "David-2357",
+  "kind": "user",
+  "seed": "f9b64f24aaa3cd8b",
+  "planted": "2024-02-29",
+  "last_grown": "2026-11-04",
+  "trunk": {
+    "height": 12,
+    "girth": 3,
+    "bends": [
+      [
+        0,
+        0
+      ],
+      [
+        5,
+        1
+      ],
+      [
+        10,
+        0
+      ]
+    ]
+  },
+  "branches": [
+    {
+      "repo_id": "R_kgDORVS7MA",
+      "name": "task-collector",
+      "lang": "TypeScript",
+      "color": "#3178c6",
+      "anchor": 2,
+      "side": "left",
+      "length": 7,
+      "pad": 4,
+      "commits_total": 290,
+      "pruned": null
+    },
+    {
+      "repo_id": "R_kgDOORIrXQ",
+      "name": "personal-reviews-app",
+      "lang": "TypeScript",
+      "color": "#3178c6",
+      "anchor": 3,
+      "side": "right",
+      "length": 3,
+      "pad": 3,
+      "commits_total": 1,
+      "pruned": null
+    },
+    {
+      "repo_id": "R_kgDOVTTStg",
+      "name": "UPO--frieren-magical-matrix",
+      "lang": "Java",
+      "color": "#b07219",
+      "anchor": 4,
+      "side": "left",
+      "length": 3,
+      "pad": 3,
+      "commits_total": 24,
+      "pruned": null
+    },
+    {
+      "repo_id": "R_kgDOLZo06w",
+      "name": "DatabaseMethods",
+      "lang": "PHP",
+      "color": "#4F5D95",
+      "anchor": 5,
+      "side": "right",
+      "length": 7,
+      "pad": 4,
+      "commits_total": 331,
+      "pruned": null
+    },
+    {
+      "repo_id": "R_kgDOSejpCw",
+      "name": "personal-reviews-v2",
+      "lang": "Dart",
+      "color": "#00B4AB",
+      "anchor": 6,
+      "side": "left",
+      "length": 6,
+      "pad": 4,
+      "commits_total": 149,
+      "pruned": null
+    },
+    {
+      "repo_id": "R_kgDOTlVv-w",
+      "name": "deadly_snail",
+      "lang": "Lua",
+      "color": "#000080",
+      "anchor": 8,
+      "side": "right",
+      "length": 1,
+      "pad": 3,
+      "commits_total": 1,
+      "pruned": null
+    }
+  ],
+  "year_cache": {
+    "2024": {
+      "R_kgDOLZo06w": 36
+    },
+    "2025": {
+      "R_kgDOLZo06w": 5,
+      "R_kgDOORIrXQ": 1,
+      "R_kgDOQNRmpw": 6
+    }
+  },
+  "history": [
+    {
+      "date": "2024-02",
+      "cells_added": 1
+    },
+    {
+      "date": "2024-03",
+      "cells_added": 2
+    },
+    {
+      "date": "2024-09",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-01-02",
+      "cells_added": 3
+    },
+    {
+      "date": "2026-01-03",
+      "cells_added": 3
+    },
+    {
+      "date": "2026-01-04",
+      "cells_added": 3
+    },
+    {
+      "date": "2026-02-17",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-02-18",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-02-19",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-02-21",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-02-26",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-03-10",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-03-11",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-03-14",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-03-15",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-03-27",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-03-28",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-03-29",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-05-11",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-05-28",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-05-29",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-06-17",
+      "cells_added": 1
+    },
+    {
+      "date": "2026-11-04",
+      "cells_added": 1
+    }
+  ],
+  "vitals": {
+    "phase": "growing",
+    "streak_days": 5,
+    "idle_days": 0,
+    "commits_total": 805,
+    "stars_total": 14,
+    "public_repos": 17,
+    "activity_28d": {
+      "R_kgDOLZo06w": 0,
+      "R_kgDOORIrXQ": 0,
+      "R_kgDORVS7MA": 0,
+      "R_kgDOSejpCw": 0,
+      "R_kgDOTlVv-w": 0,
+      "R_kgDOVTTStg": 24
+    },
+    "grew": {
+      "R_kgDOTlVv-w": 1
+    }
+  }
+}

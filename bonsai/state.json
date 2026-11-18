@@ -4,7 +4,7 @@
   "kind": "user",
   "seed": "f9b64f24aaa3cd8b",
   "planted": "2024-02-29",
-  "last_grown": "2026-11-16",
+  "last_grown": "2026-11-17",
   "trunk": {
     "height": 12,
     "girth": 3,
@@ -82,6 +82,18 @@
       "length": 6,
       "pad": 4,
       "commits_total": 149,
+      "pruned": null
+    },
+    {
+      "repo_id": "R_kgDOVw_32g",
+      "name": "have_to_study",
+      "lang": "Dart",
+      "color": "#00B4AB",
+      "anchor": 7,
+      "side": "right",
+      "length": 1,
+      "pad": 3,
+      "commits_total": 31,
       "pruned": null
     },
     {
@@ -207,13 +219,17 @@
     {
       "date": "2026-11-06",
       "cells_added": 1
+    },
+    {
+      "date": "2026-11-17",
+      "cells_added": 1
     }
   ],
   "vitals": {
     "phase": "growing",
-    "streak_days": 1,
+    "streak_days": 2,
     "idle_days": 0,
-    "commits_total": 807,
+    "commits_total": 838,
     "stars_total": 14,
     "public_repos": 18,
     "activity_28d": {
@@ -222,8 +238,11 @@
       "R_kgDORVS7MA": 0,
       "R_kgDOSejpCw": 0,
       "R_kgDOTlVv-w": 0,
-      "R_kgDOVTTStg": 24
+      "R_kgDOVTTStg": 24,
+      "R_kgDOVw_32g": 31
     },
-    "grew": {}
+    "grew": {
+      "R_kgDOVw_32g": 1
+    }
   }
 }

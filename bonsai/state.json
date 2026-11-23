@@ -4,7 +4,7 @@
   "kind": "user",
   "seed": "f9b64f24aaa3cd8b",
   "planted": "2024-02-29",
-  "last_grown": "2026-11-21",
+  "last_grown": "2026-11-22",
   "trunk": {
     "height": 12,
     "girth": 3,
@@ -244,7 +244,7 @@
   "vitals": {
     "phase": "growing",
     "streak_days": 0,
-    "idle_days": 3,
+    "idle_days": 4,
     "commits_total": 871,
     "stars_total": 14,
     "public_repos": 18,
@@ -257,8 +257,6 @@
       "R_kgDOVTTStg": 4,
       "R_kgDOVw_32g": 64
     },
-    "grew": {
-      "R_kgDOVw_32g": 1
-    }
+    "grew": {}
   }
 }
